@@ -52,5 +52,5 @@ client.on('messageCreate', (message) => {
 });
       
 
-const TOKEN = 'MTI5NTg1MzE4NjQyNjQ3NDU0Ng.G8ec-8.5LKv__kTtCsRgr9gIJ4hUSvHvH1Wc5xvxSn5ZU';
+const TOKEN = 'MTI5NTg1MzE4NjQyNjQ3NDU0Ng.GtgHgT.lrivxGgpou-Yo_M3USYDPpp75EMsFkIy1cuO6g';
 client.login(TOKEN);
